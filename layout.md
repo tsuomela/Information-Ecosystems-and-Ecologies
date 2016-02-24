@@ -1,3 +1,3 @@
 Early Antecedents.tex
 Two Programs for IE.tex
-Equivalence_between_information_and_energy__.tex
+section_Comments_and_Discussion_Equivalence__.tex
