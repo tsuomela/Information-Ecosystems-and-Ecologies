@@ -1,5 +1,5 @@
 Introduction.tex
 Early Antecedents.tex
 Two Programs for IE.tex
-section_Adjacent_Ideas_and_Ecological__.tex
+Adjacent Ideas and Ecological Adoptions.tex
 section_Comments_and_Discussion_Equivalence__.tex
