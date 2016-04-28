@@ -2,8 +2,7 @@
 \usepackage{graphicx}
 
 \makeatletter
-\renewcommand{\@chapapp}{}% Not necessary...
-\newenvironment{eipgraph}[2][2em]
+\newenvironment{epigraph}[2][2em]
   {\setlength{\@tempdima}{#1}%
    \def\eipgraph@author{#2}%
    \parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
