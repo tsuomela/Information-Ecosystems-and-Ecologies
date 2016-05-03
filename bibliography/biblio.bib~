@@ -959,7 +959,7 @@
 }
 
 
-@inbook{stiglitz_1999,
+@inbook{
    author = {Stiglitz, Joseph},
    title = {Knowledge as a Global Public Good},
    booktitle = {Global Public Goods},
